@@ -1,0 +1,106 @@
+.container{
+    margin: 100px;
+    padding: 200px;
+
+}
+.limited{
+  
+    background-color: greenyellow;
+    width: 30%;
+    padding: 5px;
+    border-radius: 0px 0px 300px 300px;
+    position: absolute;
+    top: 0px;
+    right: 60px;
+    height: 30px;
+
+
+ 
+}
+.time{
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+.banner{
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(210, 240, 225);
+    position: relative;
+   border-radius: 10px;
+    
+}
+
+.name{
+
+   margin-top: -10px;
+   text-align: center;
+}
+.discount{
+    
+    margin-top: 100px;
+    text-align: center;
+    text-wrap:balance;
+}
+.get-discount{
+   color: gray;
+}
+.counter-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    margin: 0;
+}
+.counter{
+
+  display: flex;
+  gap: 10px;
+
+}
+.counter-days{
+    width: 50px;
+    height: 
+    50px;
+    background-color: #f6f9f6;
+    border-radius: 10px;
+    object-fit: contain;
+}
+.counter-text{
+    text-align: center;
+    font-size:x-small;
+    color: gray;
+    
+}
+
+.counter-day{
+    text-align: center;
+    font-size:medium;
+    font-weight: bold;
+    margin-bottom: -10px;
+    color: gray;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+.duzz{
+    text-align: center;
+    margin-top: 10px;
+    border: 2px dashed rgb(14, 223, 98);
+    padding: 10px 30px;
+    padding: 10px 30px;
+    background-color: rgb(210, 240, 225);
+    color: gray;
+    
+}
+.copy{
+    margin-top: 10px;
+    border: 2px solid rgb(14, 223, 98);
+    padding: 10px 30px;
+    background-color:rgb(14, 223, 98);
+    color: white;
+}
